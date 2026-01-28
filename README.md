@@ -70,3 +70,5 @@ Find minimum marks student
 👨‍💻 Author
 
 Pranay Jadhao
+
+<img width="532" height="647" alt="image" src="https://github.com/user-attachments/assets/ea994e90-8c0f-4be7-a53a-030c75891ee6" />
